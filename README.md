@@ -5,8 +5,12 @@ Users can search for weather conditions by city name or use geolocation to autom
 
 🚀 Features
 
-🌍 Search weather by city name
-📍 Geolocation support for current location weather
+ Search weather by city name|  Geolocation support for current location weather| Real-time temperature and weather updates| Displays humidity, wind speed, and conditions
+ Dynamic UI with weather-based visuals| Fully responsive design for mobile and desktop | Recent search history support
+ 
+ 🛠️ Tech Stack
+ 
+HTML5 – Structure of the application| CSS3 – Styling and responsive layout| JavaScript (ES6+) – API integration and interactivity| Weather API – Fetching live weather data
 
 📌 Purpose
 
