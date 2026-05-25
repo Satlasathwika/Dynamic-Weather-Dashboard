@@ -6,7 +6,9 @@ Users can search for weather conditions by city name or use geolocation to autom
 🚀 Features
 
 🌍 Search weather by city name
+
 📍 Geolocation support for current location weather
+
 🌡️ Real-time temperature and weather updates
 💨 Displays humidity, wind speed, and conditions
 🎨 Dynamic UI with weather-based visuals
